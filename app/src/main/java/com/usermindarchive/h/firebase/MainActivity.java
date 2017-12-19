@@ -24,6 +24,7 @@ firebase fire;
     @OnClick(R.id.get)
     public void send(){
         fire.sendData();
+        fire.sendData();
 
     }
 }
